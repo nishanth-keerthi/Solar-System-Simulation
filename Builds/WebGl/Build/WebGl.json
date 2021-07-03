@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Solar System Simulation",
+"dataUrl": "WebGl.data.unityweb",
+"asmCodeUrl": "WebGl.asm.code.unityweb",
+"asmMemoryUrl": "WebGl.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
